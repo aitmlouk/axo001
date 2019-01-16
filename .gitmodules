@@ -1,0 +1,4 @@
+[submodule "AxoTopMedia/odoo"]
+	path = AxoTopMedia/odoo
+	url = git@github.com:AxoTopMedia/odoo.git
+	branch = TEST02
